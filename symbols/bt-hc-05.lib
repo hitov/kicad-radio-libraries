@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.3  Date: 12.10.2015 (пн) 22,36,28 EEST
+#encoding utf-8
+#
+# HC-05
+#
+DEF HC-05 U 0 40 Y Y 1 F N
+F0 "U" 0 0 60 H V C CNN
+F1 "HC-05" 0 0 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+X UART_TXD 1 0 -250 300 R 50 50 1 1 I
+X UART_RXD 2 0 -350 300 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
