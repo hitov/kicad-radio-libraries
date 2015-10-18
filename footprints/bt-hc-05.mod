@@ -1,0 +1,259 @@
+PCBNEW-LibModule-V1  18.10.2015 (нд) 20,40,52 EEST
+# encoding utf-8
+Units mm
+$INDEX
+HC-05
+$EndINDEX
+$MODULE HC-05
+Po 0 0 0 15 5623D896 00000000 ~~
+Li HC-05
+Sc 0
+AR 
+Op 0 0 0
+T0 5.6 -23.2 1 1 0 0.15 N V 21 N "HC-05"
+T1 5.6 -21.6 1 1 0 0.15 N V 21 N "VAL**"
+DS 0 -19.9 12.7 -19.9 0.15 21
+DS 0 -25.5 0 1.5 0.15 21
+DS 0 1.5 12.7 1.5 0.15 21
+DS 12.7 1.5 12.7 -25.5 0.15 21
+DS 0 -25.5 12.7 -25.5 0.15 21
+$PAD
+Sh "1" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -18
+$EndPAD
+$PAD
+Sh "2" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -16.5
+$EndPAD
+$PAD
+Sh "3" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -15
+$EndPAD
+$PAD
+Sh "4" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -13.5
+$EndPAD
+$PAD
+Sh "5" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -12
+$EndPAD
+$PAD
+Sh "6" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -10.5
+$EndPAD
+$PAD
+Sh "7" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -9
+$EndPAD
+$PAD
+Sh "8" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -7.5
+$EndPAD
+$PAD
+Sh "9" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -6
+$EndPAD
+$PAD
+Sh "10" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -4.5
+$EndPAD
+$PAD
+Sh "11" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -3
+$EndPAD
+$PAD
+Sh "12" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.5
+$EndPAD
+$PAD
+Sh "13" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "22" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "23" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -1.5
+$EndPAD
+$PAD
+Sh "24" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -3
+$EndPAD
+$PAD
+Sh "25" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -4.5
+$EndPAD
+$PAD
+Sh "26" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -6
+$EndPAD
+$PAD
+Sh "27" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -7.5
+$EndPAD
+$PAD
+Sh "28" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -9
+$EndPAD
+$PAD
+Sh "29" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -10.5
+$EndPAD
+$PAD
+Sh "30" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -12
+$EndPAD
+$PAD
+Sh "31" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -13.5
+$EndPAD
+$PAD
+Sh "32" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -15
+$EndPAD
+$PAD
+Sh "33" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -16.5
+$EndPAD
+$PAD
+Sh "34" R 1.5 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.7 -18
+$EndPAD
+$PAD
+Sh "14" R 1 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 1.8
+$EndPAD
+$PAD
+Sh "15" R 1 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.6 1.8
+$EndPAD
+$PAD
+Sh "16" R 1 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.1 1.8
+$EndPAD
+$PAD
+Sh "17" R 1 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.6 1.8
+$EndPAD
+$PAD
+Sh "18" R 1 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.1 1.8
+$EndPAD
+$PAD
+Sh "19" R 1 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.6 1.8
+$EndPAD
+$PAD
+Sh "20" R 1 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.1 1.8
+$EndPAD
+$PAD
+Sh "21" R 1 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.6 1.8
+$EndPAD
+$EndMODULE HC-05
+$EndLIBRARY

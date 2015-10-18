@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3  Date: 16.10.2015 (пт)  0,08,22 EEST
+#encoding utf-8
+#
+# MK12C02
+#
+DEF MK12C02 K 0 40 Y Y 1 F N
+F0 "K" 0 250 60 H V C CNN
+F1 "MK12C02" 150 150 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+C 35 -50 10 0 1 0 N
+C 35 50 10 0 1 0 N
+P 2 0 1 0  5 0  55 30 N
+X ~ 1 100 50 50 L 50 50 1 1 B
+X ~ 2 -50 0 50 R 50 50 1 1 B
+X ~ 3 100 -50 50 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
