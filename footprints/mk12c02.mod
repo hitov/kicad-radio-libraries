@@ -1,0 +1,89 @@
+PCBNEW-LibModule-V1  25.10.2015 (нд) 19,53,01 EET
+# encoding utf-8
+Units mm
+$INDEX
+MK12C02
+$EndINDEX
+$MODULE MK12C02
+Po 0 0 0 15 562D169E 00000000 ~~
+Li MK12C02
+Sc 0
+AR 
+Op 0 0 0
+T0 0.2 -4.1 1 1 0 0.15 N V 21 N "MK12C02"
+T1 -1.3 -5.7 1 1 0 0.15 N V 21 N "VAL**"
+DS -1.6 1.3 -1.6 2.2 0.15 21
+DS -1.6 2.2 -1.5 2.3 0.15 21
+DS -1.5 2.3 -0.5 2.3 0.15 21
+DS -0.5 2.3 -0.4 2.2 0.15 21
+DS -0.4 2.2 -0.4 1.3 0.15 21
+DS -3.3 -1.3 3.3 -1.3 0.15 21
+DS 3.3 -1.3 3.3 1.3 0.15 21
+DS 3.3 1.3 -3.2 1.3 0.15 21
+DS -3.2 1.3 -3.3 1.3 0.15 21
+DS -3.3 1.3 -3.3 -1.3 0.15 21
+$PAD
+Sh "1" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.25 -2.2
+$EndPAD
+$PAD
+Sh "2" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.75 -2.2
+$EndPAD
+$PAD
+Sh "3" R 0.8 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.25 -2.2
+$EndPAD
+$PAD
+Sh "4" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7 -0.9
+$EndPAD
+$PAD
+Sh "5" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7 -0.9
+$EndPAD
+$PAD
+Sh "6" R 1.1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.7 0.9
+$EndPAD
+$PAD
+Sh "7" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7 0.9
+$EndPAD
+$PAD
+Sh "8" C 1 1 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 0
+$EndPAD
+$PAD
+Sh "9" C 1 1 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.5 0
+$EndPAD
+$EndMODULE MK12C02
+$EndLIBRARY
