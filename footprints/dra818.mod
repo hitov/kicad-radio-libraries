@@ -1,0 +1,167 @@
+PCBNEW-LibModule-V1  13.11.2016 (нд) 20,45,33 EET
+# encoding utf-8
+Units mm
+$INDEX
+Dorji_DRA818
+$EndINDEX
+$MODULE Dorji_DRA818
+Po 0 0 0 15 54EFA55D 00000000 ~~
+Li Dorji_DRA818
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N I 21 N "Dorji_DRA818"
+T1 0 0 1 1 0 0.15 N I 21 N "VAL**"
+DS -17.8 -9.5 17.8 -9.5 0.15 21
+DS 17.8 -9.5 17.8 9.5 0.15 21
+DS 17.8 9.5 -17.8 9.5 0.15 21
+DS -17.8 9.5 -17.8 -9.5 0.15 21
+$PAD
+Sh "7" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.35 -8.7
+$EndPAD
+$PAD
+Sh "6" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.9 -8.7
+$EndPAD
+$PAD
+Sh "5" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.45 -8.7
+$EndPAD
+$PAD
+Sh "4" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -8.7
+$EndPAD
+$PAD
+Sh "3" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.45 -8.7
+$EndPAD
+$PAD
+Sh "2" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.9 -8.7
+$EndPAD
+$PAD
+Sh "1" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -13.35 -8.7
+$EndPAD
+$PAD
+Sh "12" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.35 8.7
+$EndPAD
+$PAD
+Sh "13" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.9 8.7
+$EndPAD
+$PAD
+Sh "14" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.45 8.7
+$EndPAD
+$PAD
+Sh "15" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 8.7
+$EndPAD
+$PAD
+Sh "16" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.45 8.7
+$EndPAD
+$PAD
+Sh "17" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.9 8.7
+$EndPAD
+$PAD
+Sh "18" R 2 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -13.35 8.7
+$EndPAD
+$PAD
+Sh "8" R 2 2.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17 -6.9
+$EndPAD
+$PAD
+Sh "9" R 2 2.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17 -2.3
+$EndPAD
+$PAD
+Sh "10" R 2 2.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17 2.3
+$EndPAD
+$PAD
+Sh "11" R 2 2.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17 6.9
+$EndPAD
+$PAD
+Sh "P2" R 2.2 7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -17 -6.3
+$EndPAD
+$PAD
+Sh "P3" R 2.2 8.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -17 5.6
+$EndPAD
+$PAD
+Sh "P1" R 6.5 6.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.1 0
+$EndPAD
+$EndMODULE Dorji_DRA818
+$EndLIBRARY

@@ -1,0 +1,72 @@
+PCBNEW-LibModule-V1  16.11.2016 (ср) 23,11,47 EET
+# encoding utf-8
+Units mm
+$INDEX
+SOT-23-6
+$EndINDEX
+$MODULE SOT-23-6
+Po 0 0 0 15 53DE8DE3 00000000 ~~
+Li SOT-23-6
+Cd 6-pin SOT-23 package
+Kw SOT-23-6
+Sc 0
+AR 
+Op 0 0 0
+At SMD
+T0 0 -2.9 1 1 0 0.15 N V 21 N "REF**"
+T1 0 2.9 1 1 0 0.15 N V 21 N "SOT-23-6"
+DC -0.4 -1.7 -0.3 -1.7 0.15 21
+DS 0.25 -1.45 -0.25 -1.45 0.15 21
+DS 0.25 1.45 0.25 -1.45 0.15 21
+DS -0.25 1.45 0.25 1.45 0.15 21
+DS -0.25 -1.45 -0.25 1.45 0.15 21
+$PAD
+Sh "1" R 1.06 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.1 -0.95
+$EndPAD
+$PAD
+Sh "2" R 1.06 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.1 0
+$EndPAD
+$PAD
+Sh "3" R 1.06 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.1 0.95
+$EndPAD
+$PAD
+Sh "4" R 1.06 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 0.95
+$EndPAD
+$PAD
+Sh "6" R 1.06 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 -0.95
+$EndPAD
+$PAD
+Sh "5" R 1.06 0.65 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 0
+$EndPAD
+$SHAPE3D
+Na "TO_SOT_Packages_SMD.3dshapes/SOT-23-6.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE SOT-23-6
+$EndLIBRARY
