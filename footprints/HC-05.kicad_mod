@@ -44,9 +44,4 @@
   (pad 19 smd rect (at 8.6 1.8) (size 1 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 10.1 1.8) (size 1 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 21 smd rect (at 11.6 1.8) (size 1 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ../../../../../mnt/store/Bango/ALLPROJECTS/hardwareprojects/my-mobilinkd/tnc2-pcb/kicad-radio-libraries/3d/itead_hc-05.wrl
-    (at (xyz 0.25 0.47 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
